@@ -16,4 +16,4 @@ like 85% of people in the list.
 
 But attention, the intersection is significant: to be precise, there are 964 names which are in both lists. 
 They include not only "jean", which is both French male [ʒɑ̃]  and female [dʒiːn] of Scottish origin,
-but alse names like "andrea" which is male in Italy and "marie" which could be male in old French.
+but also names like "andrea" which is male in Italy and "marie" which could be male in old French.
